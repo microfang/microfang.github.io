@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[祖鲁法则]]></title>
+    <url>%2F2018%2F03%2F18%2F%E7%A5%96%E9%B2%81%E6%B3%95%E5%88%99-1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[测试]]></title>
+    <url>%2F2018%2F03%2F18%2F%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[###我就不相信这东西]]></content>
+      <categories>
+        <category>股海沉浮</category>
+      </categories>
+      <tags>
+        <tag>股票</tag>
+        <tag>杂念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[祖鲁法则]]></title>
+    <url>%2F2018%2F03%2F18%2F%E7%A5%96%E9%B2%81%E6%B3%95%E5%88%99%2F</url>
+    <content type="text"><![CDATA[祖鲁法则这本书是看到了陶博士的公众号推荐得知的，打算在京东上找来购买的，但发现已经停版了，所以只有找到电子版的，在kindle上阅读，但因为是讲解股票的书籍，涉及到表格及图片都不清晰，所有对书中所列的表格都没细看而略过了。 该书是对在如何对英国的股票市场中挑选成长股。关注的是长期的价值投资，而不再讲究择时买入与卖出。 在对成长股的选择方面有几个强制性的标准： 市盈率不能超过20倍 PEG不能过于0.75 强劲的现金流 有高管在买入公司的股票 投资是一门精确的艺术，选股比择时更重要！]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>股票</tag>
+        <tag>投资</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F03%2F17%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
